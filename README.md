@@ -25,6 +25,11 @@ WHEN I refresh the page
 THEN the saved events persist
 
 # Below is the application picture
-![A user clicks on slots on the color-coded calendar and edits the events](.image/image1.png)
+![A user clicks on slots on the color-coded calendar and edits the events](./image/image1.png)
+
+
+![alt text](./assets/images/Screenshot%202022-12-07%20173946.png)
+
+Deployed Website URL: https://bamidele100.github.io/FIFA-Fever/
 
 © 2022 Bamidele Talabi. Confidential and Proprietary. All Rights Reserved.
