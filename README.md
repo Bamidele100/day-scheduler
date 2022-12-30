@@ -25,6 +25,6 @@ WHEN I refresh the page
 THEN the saved events persist
 
 # Below is the application picture
-![A user clicks on slots on the color-coded calendar and edits the events.](.image/image1.png)
+!(.image/image1.png)
 
 © 2022 Bamidele Talabi. Confidential and Proprietary. All Rights Reserved.
