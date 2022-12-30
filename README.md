@@ -30,4 +30,8 @@ THEN the saved events persist
 ## Deployed Website 
 URL: https://bamidele100.github.io/day-scheduler/
 
+## URL of the GitHub repository
+https://github.com/Bamidele100/day-scheduler.git
+
+
 © 2022 Bamidele Talabi. Confidential and Proprietary. All Rights Reserved.
